@@ -2,7 +2,7 @@
 
 E. coli DNA analysis using Python's pandas, numpy, and matplotlib libraries
 
-genome data package from https://www.ncbi.nlm.nih.gov/
+genome data package from https://www.ncbi.nlm.nih.gov/nuccore/U00096
 
 DNA sequence is stored in FASTA file
 
